@@ -12,7 +12,6 @@ It allows users to process grade data, compute key statistics, and export result
 - Export a formatted report to Microsoft Word
 - Simple ribbon-based interface (Analyze, Export, Clear)
 
-<p align="center">
-  <img width="2879" height="1507" alt="Screenshot 2026-05-05 134631" src="https://github.com/user-attachments/assets/25f53094-edce-4e6f-836f-c4a5fdde456f" />
-  <img width="1806" height="1238" alt="Screenshot 2026-05-05 134815" src="https://github.com/user-attachments/assets/6b4ab211-ca6d-4cea-86c9-e72d520985b9" />
-</p>
+<img width="2879" height="1507" alt="Screenshot 2026-05-05 134631" src="https://github.com/user-attachments/assets/25f53094-edce-4e6f-836f-c4a5fdde456f" />
+<img width="1806" height="1238" alt="Screenshot 2026-05-05 134815" src="https://github.com/user-attachments/assets/6b4ab211-ca6d-4cea-86c9-e72d520985b9" />
+
